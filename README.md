@@ -125,9 +125,9 @@ Processos:  Service Layer, Centralized Services, Standard Skills, Documentation
 Se sua empresa busca alguém que **entenda o negócio, arquitete a solução e entregue
 o produto** — não apenas escreva código — vamos nos falar.
 
-- 📧 **Email:** [seu-email@dominio.com]
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil]
-- 🌐 **Portfolio:** [seu-site.vercel.app]
+- 📧 **Email:** [adellinosantos.fs@gmail.com]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/adelino-junior/)]
+- 🌐 **Portfolio:** [seu-site.vercel.app - em andamento ]
 
 ---
 
